@@ -10,5 +10,3 @@ Remote learning has skyrocketed due to COVID-19. Students and instructors might 
 
 <b><i> Visualizing-Survey-Data-for-The-Latinista-Tableau</b></i> 
 As a Project Manager for The Latinista, I analyzed the results of two annual surveys conducted in 2020 and presented insights via Tableau. To learn more about The Latinista, please visit us at [https://www.thelatinista.com/](https://www.thelatinista.com/) The dashboard may be found [here](https://public.tableau.com/views/TheLatinistaDataSnapshot/TheLatinistaDataSnapshot?:language=en&:display_count=y&publish=yes&:origin=viz_share_link) (Tableau Public). 
-![Image of Tableau](https://github.com/mitzibandera/Visualizing-Survey-Data-for-The-Latinista-Tableau/blob/master/The%20Latinista%20Data%20Snapshot.png) 
-
